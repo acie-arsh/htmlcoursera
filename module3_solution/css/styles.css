@@ -1,0 +1,41 @@
+body {
+    background-color: aquamarine;
+
+}
+
+#nav-container{
+    background-color: darkslategray;
+    padding:0;
+    
+
+}
+
+
+
+.navbar{
+    margin:0;
+    padding:0;
+    width:100%;
+
+}
+
+
+#brand-logo{
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 175%;
+
+}
+
+.our-dropdown{
+    background-color:forestgreen;
+    margin: 0;
+    padding: 0;
+}
+
+#pageSection{
+
+    height:1500px;
+
+
+}
